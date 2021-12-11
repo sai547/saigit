@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo apt-get update -y
+sudo apt-get -y intsall apache2
+sudo rm /var/www/html/index.html
